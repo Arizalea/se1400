@@ -34,3 +34,7 @@ footer {
     font-style: italic;
     text-align:center;
 }
+dt {
+    color:#003058;
+    font-weight:bold;
+}
