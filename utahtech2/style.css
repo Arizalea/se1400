@@ -1,10 +1,14 @@
 .ut {
-    color: red;
+    color: #BA1C21;
+    font-weight:bold;
 }
 #wrapper {
     background-color:#FFFFFF;
     color:"#666666";
     font-family:arial;
+    margin-left:auto;
+    margin-left:auto;
+    width: 80;
 }
 h1 {
     color:#FFFFFF;
@@ -24,4 +28,9 @@ nav {
 h2 {
     color:#424242;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    font-size: 0.7rem;
+    font-style: italic;
+    text-align:center;
 }
